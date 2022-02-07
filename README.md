@@ -27,12 +27,12 @@
 <h3 align="center">Simple NBA</h3>
 
   <p align="center">
-    project_description
+    Live NBA Game updates
     <br />
     <a href="https://github.com/arvinshen/Simple-NBA-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/arvinshen/Simple-NBA-App">View Demo</a>
+    <a href="https://github.com/arvinshen/Simple-NBA-App">Download on the App Store</a>
     ·
     <a href="https://github.com/arvinshen/Simple-NBA-App/issues">Report Bug</a>
     ·
@@ -49,7 +49,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#features">Features</a></li>
       </ul>
     </li>
     <li>
@@ -61,10 +61,8 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#Privacy Policy">Privacy Policy</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
