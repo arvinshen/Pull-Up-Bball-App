@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/arvinshen/Simple-NBA-App">
-    <img src="assets/simple_nba_logo_dark_1024.png" alt="Logo" width="80" height="80">
+    <img src="assets/simple_nba_logo_dark_1024.png" alt="Logo" width="240" height="240">
   </a>
 
 <h3 align="center">Simple NBA</h3>
@@ -108,10 +108,15 @@ Simple NBA publishing date TBD.
 <!-- USAGE EXAMPLES -->
 ## Usage
 ![Live Daily Scores][iphone-screenshot1]
+![Live Daily Scores][ipad-screenshot1]
 ![Spoiler-free Setting][iphone-screenshot2]
+![Spoiler-free Setting][ipad-screenshot2]
 ![Simple Adjustable Settings][iphone-screenshot3]
+![Simple Adjustable Settings][ipad-screenshot3]
 ![Highlights Games of Your Favorite Team][iphone-screenshot4]
+![Highlights Games of Your Favorite Team][ipad-screenshot4]
 ![Native Dark Mode][iphone-screenshot5]
+![Native Dark Mode][ipad-screenshot5]
 
 
 
@@ -178,3 +183,8 @@ Project Link: [https://github.com/arvinshen/Simple-NBA-App](https://github.com/a
 [iphone-screenshot3]: assets/iphone-image3.png
 [iphone-screenshot4]: assets/iphone-image4.png
 [iphone-screenshot5]: assets/iphone-image5.png
+[ipad-screenshot1]: assets/ipad-image1.png
+[ipad-screenshot2]: assets/ipad-image2.png
+[ipad-screenshot3]: assets/ipad-image3.png
+[ipad-screenshot4]: assets/ipad-image4.png
+[ipad-screenshot5]: assets/ipad-image5.png
