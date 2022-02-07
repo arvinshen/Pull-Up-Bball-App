@@ -12,6 +12,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -72,7 +73,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `arvinshen`, `Simple-NBA-App`, `twitter_handle`, `arvin-shen`, `email`, `email_client`, `Simple NBA`, `project_description`
+Simple NBA is a fast and minimalistic way to enjoy live NBA game updates that allows basketball enthusiasts to check games without spoilers.
+
+### Features
+
+- Daily Scores
+    - Spoiler-free Setting
+    - Shows National, Home, and Away Team Broadcasts
+- Dark Mode
+- Favorite Team Selection
+- Favorite Team Game Start Notifications
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -87,6 +97,7 @@ Any iPhone/iPad with iOS 14.0 or later.
 
 ### Installation
 
+Simple NBA publishing date TBD.
 1. Visit the Apple [App Store](https://apple.com/app-store/) or the native App Store on your iPhone/iPad.
 2. Search for 'Simple NBA'.
 3. Tap the 'Get' button to install.
@@ -98,7 +109,11 @@ Any iPhone/iPad with iOS 14.0 or later.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-![Live Daily Scores][iphone13-screenshot1]
+![Live Daily Scores][iphone-screenshot1]
+![Spoiler-free Setting][iphone-screenshot2]
+![Simple Adjustable Settings][iphone-screenshot3]
+![Highlights Games of Your Favorite Team][iphone-screenshot4]
+![Native Dark Mode][iphone-screenshot5]
 
 
 
@@ -152,15 +167,16 @@ Project Link: [https://github.com/arvinshen/Simple-NBA-App](https://github.com/a
 [stars-url]: https://github.com/arvinshen/Simple-NBA-App/stargazers
 [issues-shield]: https://img.shields.io/github/issues/arvinshen/Simple-NBA-App.svg?style=for-the-badge
 [issues-url]: https://github.com/arvinshen/Simple-NBA-App/issues
-[privacy-url]: https://github.com/arvinshen/Simple-NBA-App/blob/main/simple-nba-privacy-policy.html
+[license-shield]: https://img.shields.io/github/license/arvinshen/Simple-NBA-App.svg?style=for-the-badge
+[license-url]: https://github.com/arvinshen/Simple-NBA-App/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arvin-shen
-[iphone13-recording1]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.40.29.gif
-[iphone13-recording2]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.46.19.gif
-[iphone13-recording3]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-19.33.34.gif
-[iphone13-screenshot1]: assets/Simulator-Screen-Shot-iPhone13-2022-02-05-at-12.30.37.png
-[iphone13-screenshot2]: assets/Simulator-Screen-Shot-iPhone13-2022-02-05-at-12.35.32.png
-[iphone13-screenshot3]: assets/Simulator-Screen-Shot-iPhone13-2022-02-05-at-17.41.58.png
-[iphone13-screenshot4]: assets/Simulator-Screen-Shot-iPhone13-2022-02-05-at-17.42.11.png
-[iphone13-screenshot5]: assets/Simulator-Screen-Shot-iPhone13-2022-02-05-at-17.43.55.png
-[iphone13-screenshot6]: assets/Simulator-Screen-Shot-iPhone13-2022-02-05-at-17.30.06.png
+[privacy-url]: https://github.com/arvinshen/Simple-NBA-App/blob/main/simple-nba-privacy-policy.html
+[iphone-recording1]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.40.29.gif
+[iphone-recording2]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.46.19.gif
+[iphone-recording3]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-19.33.34.gif
+[iphone-screenshot1]: assets/iphone-image1.png
+[iphone-screenshot2]: assets/iphone-image2.png
+[iphone-screenshot3]: assets/iphone-image3.png
+[iphone-screenshot4]: assets/iphone-image4.png
+[iphone-screenshot5]: assets/iphone-image5.png
