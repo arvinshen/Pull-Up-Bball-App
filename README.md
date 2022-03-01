@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/arvinshen/Simple-NBA-App">
+  <a href="https://arvinshen/github.io/Simple-NBA-App">
     <img src="assets/simple_nba_logo_dark_1024.png" alt="Logo" width="240" height="240">
   </a>
 
@@ -144,8 +144,10 @@ See the [open issues](https://github.com/arvinshen/Simple-NBA-App/issues) for a 
 
 <!-- Privacy Policy -->
 ## Privacy Policy
+#### Data Not Collected
+The developer does not collect any data from the app.
 
-
+For more information, see the [developer's privacy policy][privacy-url].
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -154,7 +156,7 @@ See the [open issues](https://github.com/arvinshen/Simple-NBA-App/issues) for a 
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/arvinshen/Simple-NBA-App](https://github.com/arvinshen/Simple-NBA-App)
+Project Home Page: [https://arvinshen/github.io/Simple-NBA-App](https://arvinshen/github.io/Simple-NBA-App)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -174,7 +176,7 @@ Project Link: [https://github.com/arvinshen/Simple-NBA-App](https://github.com/a
 [license-url]: https://github.com/arvinshen/Simple-NBA-App/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arvin-shen
-[privacy-url]: https://github.com/arvinshen/Simple-NBA-App/blob/main/simple-nba-privacy-policy.html
+[privacy-url]: https://arvinshen.github.io/Simple-NBA-App/assets/simple-nba-privacy-policy.html
 [iphone-recording1]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.40.29.gif
 [iphone-recording2]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.46.19.gif
 [iphone-recording3]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-19.33.34.gif
