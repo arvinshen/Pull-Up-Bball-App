@@ -176,7 +176,7 @@ Project Home Page: [https://arvinshen/github.io/Pull-Up-Bball-App](https://arvin
 [license-url]: https://github.com/arvinshen/Pull-Up-Bball-App/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arvin-shen
-[privacy-url]: https://arvinshen.github.io/Pull-Up-Bball-App/assets/sprivacy-policy.html
+[privacy-url]: https://arvinshen.github.io/Pull-Up-Bball-App/assets/privacy-policy.html
 [iphone-recording1]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.40.29.gif
 [iphone-recording2]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.46.19.gif
 [iphone-recording3]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-19.33.34.gif
