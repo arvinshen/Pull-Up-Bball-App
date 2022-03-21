@@ -20,23 +20,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://arvinshen/github.io/Simple-NBA-App">
-    <img src="assets/simple_nba_logo_dark_1024.png" alt="Logo" width="240" height="240">
+  <a href="https://arvinshen/github.io/Pull-Up-Bball-App">
+    <img src="assets/pull-up-bball-app-1024.png" alt="Logo" width="240" height="240">
   </a>
 
-<h3 align="center">Simple NBA</h3>
+<h3 align="center">Pull Up Bball</h3>
 
   <p align="center">
     Live NBA Game updates
     <br />
-    <a href="https://github.com/arvinshen/Simple-NBA-App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/arvinshen/Pull-Up-Bball-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/arvinshen/Simple-NBA-App">Download on the App Store</a>
+    <a href="https://github.com/arvinshen/Pull-Up-Bball-App">Download on the App Store</a>
     ·
-    <a href="https://github.com/arvinshen/Simple-NBA-App/issues">Report Bug</a>
+    <a href="https://github.com/arvinshen/Pull-Up-Bball-App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/arvinshen/Simple-NBA-App/issues">Request Feature</a>
+    <a href="https://github.com/arvinshen/Pull-Up-Bball-App/issues">Request Feature</a>
   </p>
 </div>
 
@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Simple NBA is a fast and minimalistic way to enjoy live NBA game updates that allows basketball enthusiasts to check games without spoilers.
+Pull Up Bball is a fast and minimalistic way to enjoy live NBA game updates that allows basketball enthusiasts to check games without spoilers.
 
 ### Features
 
@@ -95,11 +95,11 @@ Any iPhone/iPad with iOS 14.0 or later.
 
 ### Installation
 
-Simple NBA publishing date TBD.
+Pull Up Bball publishing date TBD.
 1. Visit the Apple [App Store](https://apple.com/app-store/) or the native App Store on your iPhone/iPad.
-2. Search for 'Simple NBA'.
+2. Search for 'Pull Up Bball'.
 3. Tap the 'Get' button to install.
-4. Open 'Simple NBA' and enjoy.
+4. Open 'Pull Up Bball' and enjoy.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -136,7 +136,7 @@ Simple NBA publishing date TBD.
     - Match-up Summary
     - Play-by-Play
 
-See the [open issues](https://github.com/arvinshen/Simple-NBA-App/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/arvinshen/Pull-Up-Bball-App/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -156,7 +156,7 @@ For more information, see the [developer's privacy policy][privacy-url].
 <!-- CONTACT -->
 ## Contact
 
-Project Home Page: [https://arvinshen/github.io/Simple-NBA-App](https://arvinshen/github.io/Simple-NBA-App)
+Project Home Page: [https://arvinshen/github.io/Pull-Up-Bball-App](https://arvinshen/github.io/Pull-Up-Bball-App)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -164,19 +164,19 @@ Project Home Page: [https://arvinshen/github.io/Simple-NBA-App](https://arvinshe
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/arvinshen/Simple-NBA-App.svg?style=for-the-badge
-[contributors-url]: https://github.com/arvinshen/Simple-NBA-App/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/arvinshen/Simple-NBA-App.svg?style=for-the-badge
-[forks-url]: https://github.com/arvinshen/Simple-NBA-App/network/members
-[stars-shield]: https://img.shields.io/github/stars/arvinshen/Simple-NBA-App.svg?style=for-the-badge
-[stars-url]: https://github.com/arvinshen/Simple-NBA-App/stargazers
-[issues-shield]: https://img.shields.io/github/issues/arvinshen/Simple-NBA-App.svg?style=for-the-badge
-[issues-url]: https://github.com/arvinshen/Simple-NBA-App/issues
-[license-shield]: https://img.shields.io/github/license/arvinshen/Simple-NBA-App.svg?style=for-the-badge
-[license-url]: https://github.com/arvinshen/Simple-NBA-App/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/arvinshen/Pull-Up-Bball-App.svg?style=for-the-badge
+[contributors-url]: https://github.com/arvinshen/Pull-Up-Bball-App/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/arvinshen/Pull-Up-Bball-App.svg?style=for-the-badge
+[forks-url]: https://github.com/arvinshen/Pull-Up-Bball-App/network/members
+[stars-shield]: https://img.shields.io/github/stars/arvinshen/Pull-Up-Bball-App.svg?style=for-the-badge
+[stars-url]: https://github.com/arvinshen/Pull-Up-Bball-App/stargazers
+[issues-shield]: https://img.shields.io/github/issues/arvinshen/Pull-Up-Bball-App.svg?style=for-the-badge
+[issues-url]: https://github.com/arvinshen/Pull-Up-Bball-App/issues
+[license-shield]: https://img.shields.io/github/license/arvinshen/Pull-Up-Bball-App.svg?style=for-the-badge
+[license-url]: https://github.com/arvinshen/Pull-Up-Bball-App/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arvin-shen
-[privacy-url]: https://arvinshen.github.io/Simple-NBA-App/assets/simple-nba-privacy-policy.html
+[privacy-url]: https://arvinshen.github.io/Pull-Up-Bball-App/assets/sprivacy-policy.html
 [iphone-recording1]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.40.29.gif
 [iphone-recording2]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.46.19.gif
 [iphone-recording3]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-19.33.34.gif
