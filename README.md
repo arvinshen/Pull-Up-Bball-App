@@ -24,7 +24,7 @@
     <img src="assets/pull-up-bball-app-1024.png" alt="Logo" width="240" height="240">
   </a>
 
-<h3 align="center">Pull Up Bball</h3>
+<h3 align="center">Pull Up Bball: NBA Scores</h3>
 
   <p align="center">
     Live NBA Game updates
@@ -32,7 +32,7 @@
     <a href="https://github.com/arvinshen/Pull-Up-Bball-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/arvinshen/Pull-Up-Bball-App">Download on the App Store</a>
+    <a href="https://apps.apple.com/us/app/pull-up-bball-nba-scores/id1611849071?platform=iphone">Download on the App Store</a>
     ·
     <a href="https://github.com/arvinshen/Pull-Up-Bball-App/issues">Report Bug</a>
     ·
@@ -95,8 +95,9 @@ Any iPhone/iPad with iOS 14.0 or later.
 
 ### Installation
 
-Pull Up Bball publishing date TBD.
-1. Visit the Apple [App Store](https://apple.com/app-store/) or the native App Store on your iPhone/iPad.
+[Downloadable on the App Store][app-url]
+
+1. Open the native App Store on your iPhone/iPad.
 2. Search for 'Pull Up Bball'.
 3. Tap the 'Get' button to install.
 4. Open 'Pull Up Bball' and enjoy.
@@ -176,6 +177,7 @@ Project Home Page: [https://arvinshen/github.io/Pull-Up-Bball-App](https://arvin
 [license-url]: https://github.com/arvinshen/Pull-Up-Bball-App/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arvin-shen
+[app-url]: https://apps.apple.com/us/app/pull-up-bball-nba-scores/id1611849071?platform=iphone
 [privacy-url]: https://arvinshen.github.io/Pull-Up-Bball-App/assets/privacy-policy.html
 [iphone-recording1]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.40.29.gif
 [iphone-recording2]: assets/Simulator-Screen-Recording-iPhone13-2022-02-05-at-18.46.19.gif
